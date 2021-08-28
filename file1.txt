@@ -1,1 +1,1 @@
-This is File1. And Created when it is in branch Master
+This is File1. And Created when it is in branch Master. It is modified in Branch 2
